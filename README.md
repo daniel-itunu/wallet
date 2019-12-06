@@ -1,4 +1,4 @@
- Dummy mobile money wallet
+### Dummy mobile money wallet
  Use test card for flutterwave rave payment
  card number: 4242 4242 4242 4242
  card expiry: 01/21
